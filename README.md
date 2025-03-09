@@ -1,2 +1,2 @@
 # Python_EDA
-Exploratory Data Analysis using Python
+Video Game Sales - Exploratory Data Analysis using Python
